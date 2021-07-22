@@ -1,6 +1,6 @@
 # To Do List
 
-To Do List App
+This is a To Do List application for 
 
 ## Description
 
@@ -29,7 +29,7 @@ command to run if program contains helper info
 Contributors names and contact info
 
 Marcos Hernandez  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+[@Marcoss28]
 
 ## Acknowledgments
 
